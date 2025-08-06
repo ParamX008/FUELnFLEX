@@ -2,7 +2,7 @@
 
 A modern, responsive e-commerce website for ordering gym supplements and workout clothes. Built with HTML, CSS, and JavaScript with a focus on mobile-first design and smooth animations.
 
-## 🚀 Features
+##  Features
 
 ### Modern Design
 - **Mobile-first responsive design** that works perfectly on all devices
@@ -31,7 +31,7 @@ A modern, responsive e-commerce website for ordering gym supplements and workout
 - **Loading animations** for product grid
 - **Notification system** with slide-in animations
 
-## 📱 Mobile Responsive Features
+##  Mobile Responsive Features
 
 - **Responsive grid layouts** that adapt to screen size
 - **Touch-friendly buttons** and interactive elements
@@ -39,7 +39,7 @@ A modern, responsive e-commerce website for ordering gym supplements and workout
 - **Swipe gestures** for cart interaction
 - **Optimized typography** for mobile reading
 
-## 🛠️ Technical Implementation
+##  Technical Implementation
 
 ### HTML Structure
 - Semantic HTML5 elements
@@ -61,7 +61,7 @@ A modern, responsive e-commerce website for ordering gym supplements and workout
 - **Intersection Observer** for scroll animations
 - **Touch event handling** for mobile gestures
 
-## 🎨 Design System
+##  Design System
 
 ### Color Palette
 - **Primary**: #6366f1 (Indigo)
@@ -101,7 +101,7 @@ Portfolio2.0/
    - Test mobile responsiveness
    - Try the contact form
 
-## 📱 Mobile Testing
+##  Mobile Testing
 
 The website is optimized for mobile devices with:
 - **Touch-friendly interface**
@@ -109,7 +109,7 @@ The website is optimized for mobile devices with:
 - **Mobile navigation**
 - **Gesture support**
 
-## 🎯 Key Features Demonstrated
+##  Key Features Demonstrated
 
 ### E-commerce
 - Product catalog with supplements and clothes
@@ -129,7 +129,7 @@ The website is optimized for mobile devices with:
 - JavaScript ES6+ features
 - Progressive enhancement
 
-## 🔧 Customization
+##  Customization
 
 ### Adding Products
 Edit the product arrays in `script.js`:
@@ -156,7 +156,7 @@ Modify CSS variables in `styles.css`:
 }
 ```
 
-## 🌟 Future Enhancements
+##  Future Enhancements
 
 - **Backend integration** for real e-commerce functionality
 - **User authentication** and account management
@@ -166,10 +166,4 @@ Modify CSS variables in `styles.css`:
 - **Wishlist** functionality
 - **Order tracking** system
 
-## 📄 License
 
-This project is created for educational and portfolio purposes. Feel free to use and modify as needed.
-
----
-
-**Built with ❤️ using HTML, CSS, and JavaScript** 
