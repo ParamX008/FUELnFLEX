@@ -1,4 +1,5 @@
-# FitFuel - Premium Gym Supplements & Apparel
+# Fuel & Flex - Premium Gym Supplements & Apparel 
+### LINK- https://fuelnflex.netlify.app/
 
 A modern, responsive e-commerce website for ordering gym supplements and workout clothes. Built with HTML, CSS, and JavaScript with a focus on mobile-first design and smooth animations.
 
@@ -165,5 +166,6 @@ Modify CSS variables in `styles.css`:
 - **Product reviews** and ratings
 - **Wishlist** functionality
 - **Order tracking** system
+
 
 
